@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amoebacodes
 - 👀 I’m interested in gaining computational bio exposure and work in related fields
-- 🌱 I have taken basic programming classes in JAVA, Python, R, and MATLAB. 
+- 🌱 I have taken basic programming classes in JAVA, Python, R, and MATLAB and have graduated from JHU with 2 degrees in bio
      I will start my Master's program in Automated Science: biological experimentation at CMU in the fall.
 - 💞️ I’m looking to collaborate on comp bio projects
 - 📫 How to reach me yiqingwa@andrew.cmu.edu
